@@ -1,0 +1,20 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #333;
+}
+
+#headers {
+    color: #fff;
+    text-align: center;
+    margin-top: 70px;
+}
+
+#headers h1 {
+    font-family: 'Pacifico', cursive;
+    font-size: 40px;
+}
+
+#headers h2 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+}
